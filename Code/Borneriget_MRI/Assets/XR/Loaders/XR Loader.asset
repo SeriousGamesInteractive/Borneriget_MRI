@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ee4ed790d887e34820b0875f7cdf57e445f051d6fa69d2c215397cf2eba1d50
-size 398
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44820cf310472441e952b611b9f17c14, type: 3}
+  m_Name: XR Loader
+  m_EditorClassIdentifier: 
